@@ -63,7 +63,7 @@ A comprehensive breakdown of enterprise-grade commercial platforms offering auto
 
 Curated open-source repositories powering autonomous testing, browser interaction agents, LLM evaluation, and self-healing test automation. Entries are sorted descending by GitHub stargazers count, with real-time social badges linking directly to each repository's stargazers page.
 
-| Project & Repo | Stars | License | Capabilities & Focus | Ecosystem |
+| Project & Repo | GitHub_Stars | License | Capabilities & Focus | Ecosystem |
 |:---|:---|:---|:---|:---|
 | **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social&color=white)](https://github.com/microsoft/playwright-mcp/stargazers) | MIT | Official Model Context Protocol (MCP) server for Playwright, empowering AI coding agents (Claude Code, GitHub Copilot) to navigate websites, inspect accessibility trees, and autonomously generate and verify Playwright scripts. | Node.js / Playwright / MCP |
 | **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** | [![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers) | MIT | CLI-first automated testing, LLM application evaluation, red-teaming, and security fuzzing framework for GenAI applications with CI/CD quality gating and assertion matrices. | TypeScript / CLI / Multi-LLM |
@@ -117,6 +117,6 @@ Contributions are always welcome! 💡
 
 1. Fork this repository.
 2. Create a descriptive branch (`git checkout -b add/my-awesome-qa-agent`).
-3. Add the project to the appropriate table maintaining alphabetical, valuation, or star count sorting rules.
+3. Add the project to the appropriate table maintaining alphabetical, valuation, or Stars_Count sorting rules.
 4. Ensure pricing transparency and specific free tier / trial terms are documented for SaaS products.
 5. Submit a pull request!
